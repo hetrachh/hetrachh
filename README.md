@@ -3,7 +3,7 @@
 ## I'm a Developer!
 
 - 🔭 I’m currently learning Angular!
-- 🥅 2020 Goals: Become proficient in python
+- 🥅 2022 Goals: Become proficient in python
 - ⚡ Fun fact: I love streaming games
 
 ### Connect with me:
