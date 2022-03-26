@@ -2,7 +2,7 @@
 
 ## I'm a Developer!
 
-- 🔭 I’m currently learning Angular!
+- 🔭 I’m currently learning ReactJs!
 - 🥅 2022 Goals: Become proficient in python
 - ⚡ Fun fact: I love streaming games
 
